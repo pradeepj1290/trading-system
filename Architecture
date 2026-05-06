@@ -1,0 +1,11 @@
+Market Data → Feature Engine → Regime AI
+                               ↓
+                        SMC + FVG Engine
+                               ↓
+                        AI Probability Filter
+                               ↓
+                    Portfolio Risk Manager
+                               ↓
+                Multi-Broker Execution Layer
+                               ↓
+                   Dashboard + Monitoring
