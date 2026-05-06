@@ -11,3 +11,9 @@ class Regime:
             return "TREND"
 
         return "RANGE"
+        
+if regime == "TREND":
+    trade_breakouts_only()
+
+elif regime == "RANGE":
+    trade_liquidity_reversals_only()
